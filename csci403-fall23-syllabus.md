@@ -21,7 +21,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 ### <span style="color:darkblue">Staff</span>
 
 <span style="color:darkblue">**Head Instructor (Section A):**</span> [Prof. Gabe Fierro](https://home.gtf.fyi)   gtfierro (at) mines (dot) edu<br/>
-<span style="color:darkblue">**Office Hours:**</span> Monday 11am-12pm and 1-2pm in CTLM 214E, or by arrangement
+<span style="color:darkblue">**Office Hours:**</span> Monday 11am-12pm and Thursday 1-2pm in CTLM 214E, or by arrangement
 
 <span style="color:darkblue">**Instructor (Section B):**</span> [Adj. Prof. Hayden Cooreman](https://people.mines.edu/hcooreman)   hcooreman (at) mines (dot) edu<br/>
 <span style="color:darkblue">**Office Hours:**</span> Tuesday 2-3pm and Friday 11am-12pm in CTLM 246B, or by arrangement
@@ -35,7 +35,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
     **Office Hours:** Monday 4-6pm in the PMA (CTLM 246)<br/>
     
 - Isaac Gardberg isaacgardberg (at) mines (dot) edu<br/>
-    **Office Hours:** Monday and Wednesday 2-2:50pm in CTLM 244
+    **Office Hours:** Monday and Wednesday 2-2:50pm in CTLM 224
 
 ---
 
@@ -65,8 +65,12 @@ for communicating with the instructor, TAs, and your classmates online. You are 
 
 ## <span style="color:darkblue">Welcome to Database Management</span>
 
-We are eager to meet you all and work with you as you learn about databases. This
-semester will be available in-person. Our class model is a "flipped" classroom with work required prior to coming to class to make class time more interactive and effective. We will be doing hands-on activities each day, with worksheets on most Wednesdays. Bring a laptop or tablet with a terminal tool installed to access isengard in class.
+We are eager to meet you all and work with you as you learn about databases.
+This semester will be available in-person. Our class model is a "flipped"
+classroom with work required prior to coming to class to make class time more
+interactive and effective. We will be doing hands-on activities each day, with
+worksheets on most Wednesdays. Bring a laptop or tablet with a terminal tool
+installed to access isengard in class.
 
 ### <span style="color:darkblue">Course Description</span>
 
@@ -101,7 +105,7 @@ complex updates; tune queries for performance.
 
 NOTE: we assign readings from the textbook. These will add to your understanding and may be of use in preparing for class and exams or completing labs.
 
-- [Practical Databases](https://runestone.academy/ns/books/published/CSCI403-Spring2023/index.html) by Painter-Wakefield, available at Runestone
+- [Practical Databases](https://runestone.academy/ns/books/published/coloradoschoolofmines_practical_db_fall23/index.html) by Painter-Wakefield, available at Runestone (requires free account)
 - additional resources listed in Canvas course material
 
 
@@ -160,9 +164,14 @@ If you do not understand from the feedback provided on your coursework how to im
 
 ### <span style="color:darkblue">Expectations for Success</span>
 
-- You are expected to engage in all course activities, tasks, and assignment as an emerging professional. The Mines Academic Integrity Policy and CS@Mines Collaboration Policies form a core part of your expected ethical behavior. Make sure you are behaving with the same level of professionalism that
-would be expected at a future full-time position. My general rule of thumb is:
-**_informal_ is acceptable, but _disrespectful_ is not**. For example, you can address Prof. Amelia Read as Amelia, Prof. Read, or Miss Read, but do not address any of us as "Hey".
+- You are expected to engage in all course activities, tasks, and assignment as
+  an emerging professional. The Mines Academic Integrity Policy and CS@Mines
+  Collaboration Policies form a core part of your expected ethical behavior.
+  Make sure you are behaving with the same level of professionalism that would
+  be expected at a future full-time position. My general rule of thumb is:
+  **_informal_ is acceptable, but _disrespectful_ is not**. For example, you
+  can address Prof. Gabe Fierro as "Professor" or "Dr. Fierro" but do
+  not address any of us as "Hey".
 
 - Be active and physically take notes/write questions when viewing videos and participating in class; the notes provided are not comprehensive but may be useful for taking notes on.
 
