@@ -29,13 +29,16 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 <span style="color:darkblue">**Teaching Assistants (TAs):**</span>
 
 - Sara Kim sarakim (at) mines (dot) edu (Lead TA)<br/>
-    **Office Hours:** TBD<br/>
+    **Office Hours:** Wednesday 12-2pm in the PMA (CTLM 246)<br/>
 
 - James Vongphasouk jvongphasouk (at) mines (dot) edu<br/>
     **Office Hours:** Monday 4-6pm in the PMA (CTLM 246)<br/>
     
 - Isaac Gardberg isaacgardberg (at) mines (dot) edu<br/>
     **Office Hours:** Monday and Wednesday 2-2:50pm in CTLM 224
+
+- Nathan Panzer nathanpanzer (at) mines (dot) edu<br/>
+    **Office Hours:** TBD
 
 ---
 
