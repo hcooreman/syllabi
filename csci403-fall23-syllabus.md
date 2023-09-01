@@ -38,7 +38,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
     **Office Hours:** Monday and Wednesday 1:50-2:50pm in CTLM 224
 
 - Nathan Panzer nathanpanzer (at) mines (dot) edu<br/>
-    **Office Hours:** Friday 2-4pm in TBD
+    **Office Hours:** Friday 2-4pm in CTLM B56
 
 ---
 
