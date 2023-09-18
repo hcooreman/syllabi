@@ -32,7 +32,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
     **Office Hours:** Wednesday 12-2pm in the PMA (CTLM 246)<br/>
 
 - James Vongphasouk jvongphasouk (at) mines (dot) edu<br/>
-    **Office Hours:** Monday 4-6pm in the PMA (CTLM 246)<br/>
+    **Office Hours:** Monday and Friday 5-6pm in the PMA (CTLM 246)<br/>
     
 - Isaac Gardberg isaacgardberg (at) mines (dot) edu<br/>
     **Office Hours:** Monday and Wednesday 1:50-2:50pm in CTLM B60
