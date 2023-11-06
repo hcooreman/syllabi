@@ -24,7 +24,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 <span style="color:darkblue">**Office Hours:**</span> Monday 11am-12pm and Thursday 1-2pm in CTLM 214E, or by arrangement
 
 <span style="color:darkblue">**Instructor (Section B):**</span> [Adj. Prof. Hayden Cooreman](https://people.mines.edu/hcooreman)   hcooreman (at) mines (dot) edu<br/>
-<span style="color:darkblue">**Office Hours:**</span> Tuesday 10-11am, Wednesday 1-2pm, and Friday 11am-12pm in CTLM 246B, or by arrangement
+<span style="color:darkblue">**Office Hours:**</span> Tuesday 11am-12pm, Wednesday 1-2pm, and Friday 11am-12pm in CTLM 246B, or by arrangement
 
 <span style="color:darkblue">**Teaching Assistants (TAs):**</span>
 
