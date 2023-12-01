@@ -130,10 +130,9 @@ a grade of A; 80% or higher a B, etc. This scale may go down, but it will not go
 All grades will be posted in Canvas
 
 | Worksheets        | 15%           |
-| Participation     |  5%           |
 | Labs              | 30%           |
-| Projects          | 40%           |
-| SQL Exam          | 10%           |
+| Final Pre-Project | 15%           |
+| Final Project     | 40%           |
 
 Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the exam and SQL project.
 
