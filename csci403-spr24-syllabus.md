@@ -148,15 +148,15 @@ Actively working on the worksheets and preparing for and participating in class 
 
 Late lab submissions are _strongly_  discouraged. As with most programming languages, the material builds on itself.
 However, I understand that you are busy, and sometimes you need to work around other responsibilities. 
-Accordingly, late labs will be accepted with a 10%/week (including partial weeks) penalty, up to the last day of classes in review week, unless excused absences apply. **Any requests for exceptions to this late policy must be made to the course instructor (not the TAs).**
+Accordingly, late labs will be accepted with a 1%/day (including partial days) penalty, up to three weeks after the due date, unless excused absences apply. **Any requests for exceptions to this late policy must be made to the course instructor (not the TAs).**
 
-Worksheets cannot be submitted late, as they are an ongoing activity throughout the semester with solutions provided in the next class.
+Weekly Check-Ins cannot be submitted late, as they are an ongoing activity throughout the semester with solutions provided in the next class.
 
 The group projects cannot be submitted late due to time constraints - the SQL project requires printing of posters, and the non-SQL project similarly. Extenuating circumstances might apply, however be prepared to cover for your teammates should they be unable to participate.
 
-Exams can only be taken late with excused absences; contact your instructor one week prior to the exam or as early as possible about the need for a make-up exam.
+Quizzes can only be taken late with excused absences; contact your instructor one week prior to the quiz or as early as possible about the need for a make-up quiz.
 
-If you need exam accommodation, please arrange that with Testing Services one week or more _prior_ to the exam date as shown in Canvas.
+If you need quiz accommodations, please arrange that with Testing Services one week or more _prior_ to the exam date as shown in Canvas.
 
 ### <span style="color:darkblue">Absences</span>
 
