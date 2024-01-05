@@ -140,7 +140,7 @@ All grades will be posted in Canvas
 | Final Pre-Project | 15%           |
 | Final Project     | 40%           |
 
-Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the exam and SQL project.
+Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the exam and SQL project. Extra credit may be offered for additional learning activities related to this class. Unless otherwise detailed in this syllabus, the awarding of extra credit is at the discretion of the instructor and is not guaranteed.
 
 <!-- Do we agree with this late policy or would rather go to passes similar to data engineering? -->
 ### <span style="color:darkblue">Late Policy</span>
@@ -156,6 +156,10 @@ The group projects cannot be submitted late due to time constraints - the SQL pr
 Exams can only be taken late with excused absences; contact your instructor one week prior to the exam or as early as possible about the need for a make-up exam.
 
 If you need exam accommodation, please arrange that with Testing Services one week or more _prior_ to the exam date as shown in Canvas.
+
+### <span style="color:darkblue">Absences</span>
+
+Mines students are expected to fulfill their academic requirements through attendance and/or participation. Class attendance is required of all students unless the student has an excused absence granted by the school or the student’s professor. An excused absence awarded by the school or professor comes after a student's request or initiative. To review the Excused Absence Policy and/or to request an excused absence, please visit [https://www.mines.edu/student-life/student-absences/](https://www.mines.edu/student-life/student-absences/).
 
 ### <span style="color:darkblue">Coursework Return Policy</span>
 
@@ -251,12 +255,61 @@ See the schedule page on Canvas for a tentative course schedule. This schedule i
 
 Please check there regularly for any updates to the course schedule.
 
+### <span style="color:darkblue">Sexual Misconduct, Discrimination, and Retaliation</span>
 
+Discrimination, Harassment, and Sexual Misconduct of any type, including sexual harassment, sexual assault, dating violence, domestic violence, and stalking, are prohibited under the Policy Prohibiting Sexual Misconduct, Discrimination, and Retaliation. Please see the Office for Institutional Equity website for information on Sexual Misconduct and Discrimination.
+
+As your instructors, it is our responsibility to foster a learning environment that supports diversity of thoughts, perspectives and experiences, honors your identities, and is free of discrimination. Please feel free to speak to us if the class is not living up to these standards. Please note that we are also  mandatory reporters as instructors at Mines, and if we receive a disclosure of Discrimination, Harassment, and/or Sexual Misconduct, we are required to report it to the Title IX Coordinator.
+
+
+### <span style="color:darkblue">Preferred First Name Project</span>
+
+Mines recognizes members of the campus community may prefer to use a first name other than their legal name to identify themselves. Many services on campus, like Canvas, utilize and display preferred first names. Additional information on preferred name, including how to update your preferred name, is available at the [Office For Institutional Equity website](https://www.mines.edu/oie/preferred-first-name/).
+
+### <span style="color:darkblue">Academic Integrity</span>
+
+Colorado School of Mines affirms the principle that all individuals associated with the Mines academic community have a responsibility for establishing, maintaining, and fostering an understanding and appreciation for academic integrity. In broad terms, this implies protecting the environment of mutual trust within which scholarly exchange occurs, supporting the ability of the faculty to fairly and effectively evaluate every student’s academic achievements, and giving credence to the university’s educational mission, its scholarly objectives, and the substance of the degrees it awards. We desire an environment free of any and all forms of academic misconduct and expects students to act with integrity at all times. Please read the [full academic misconduct/integrity policy](https://www.mines.edu/policy-library/academic-integrity-policy/) for full definitions of academic misconduct. Additionally, please use [resources provided by the Office of Community Standards](https://www.mines.edu/student-life/community-standards/academic-integrity/) for guidance should you need to know more about the procedures of the policy for academic misconduct/integrity.
+
+### <span style="color:darkblue">Generative Artificial Intelligence</span>
+
+By submitting work for evaluation in this course, you represent it as your own intellectual product. Submitting content for evaluation (e.g., ideas, text, code, images) that was generated, in whole or in part, by Generative Artificial Intelligence tools (including, but not limited to, ChatGPT, Bard, and other large language models) would be considered Academic Misconduct in violation of Mines Academic Integrity/Misconduct Policy unless granted permission to do so. We will explain to you the specific uses of genAI tools that are permitted or prohibited in this course, including on what specific assignments use of genAI tools is permitted.
+
+### <span style="color:darkblue">Disability Support Services</span>
+
+Disability Support Services (DSS) works collaboratively with students, faculty, and staff to minimize barriers and support an accessible campus community. When barriers to access occur, Disability Support Services works one-on-one with students to determine accommodations and facilitate access to programs and services. If you've been approved for accommodations through Disability Support Services, please contact your professor to confirm receipt of your accommodation letter and to discuss the implementation of accommodations in this course. Please visit [mines.edu/disability-support-services](mines.edu/disability-support-services) for more information or to request accommodations. 
+
+### <span style="color:darkblue">Digital Accessibility</span>
+
+The Colorado School of Mines is committed to supporting an accessible digital environment for all members of our community, including students with disabilities. If you have an accessibility concern with Canvas or any digital materials or software used in this course, please contact your professor or request support from Information & Technology Solutions. Please visit [https://www.mines.edu/accessibility/](https://www.mines.edu/accessibility/) for more information.
+
+### <span style="color:darkblue">Student Outreach & Support (SOS) Resources</span>
+
+If you feel overwhelmed, anxious, depressed, distressed, mentally or physically unhealthy, or concerned about your wellbeing overall, there are resources both on- and off-campus available to you. If you need assistance, please ask for help from a trusted faculty or staff member, fellow student, or submit a referral for yours. As a community of care, we can help one another get through difficult times. If you are concerned for another student, offer assistance and/or ask for help on their behalf. Students seeking resources for themselves or others should visit [mines.edu/sos](mines.edu/sos). 
+
+Student Outreach and Support can help connect you with a variety of resources; some of those might include:
+
+- Counseling Center – [https://www.mines.edu/counseling-center/](https://www.mines.edu/counseling-center/) or students may call to make an appointment. There are also online resources for students on the website. Located in the Wellness Center 2nd floor. Located at 1770 Elm St
+
+- Health Center - [https://www.mines.edu/student-health/](https://www.mines.edu/student-health/) or students may call to make an appointment. Located in Wellness Center 1st floor.
+
+- Colorado Crisis Services - For crisis support 24 hrs/7 days, either by phone, text, or in person, Colorado Crisis Services is a great confidential resource, available to anyone. [http://coloradocrisisservices.org](http://coloradocrisisservices.org), 1-844-493-8255, or text “TALK” to 38255. Walk-in location addresses are posted on the website
+
+In an emergency, you should call 911, and they will dispatch a Mines or Golden PD officer to assist.
+
+### <span style="color:darkblue">Diversity and Inclusion</span>
+
+At Colorado School of Mines, we understand that a diverse and inclusive learning environment inspires creativity and innovation, which are essential to the engineering process. We also know that in order to address current and emerging national and global challenges, it is important to learn with and from people who have different backgrounds, thoughts, and experiences.
+
+Our students represent every state in the nation and more than 90 countries around the world, and we continue to make progress in the areas of diversity and inclusion by providing [Diversity and Inclusion programs and services](https://www.mines.edu/about/diversity-and-inclusion/) to support these efforts.
+
+### <span style="color:darkblue">Course Issues and Concerns</span>
+
+As part of good professional practice, students are encouraged to speak with the faculty directly to raise issues and concerns with regards to the course professionally in compliance with the student code of conduct. Students can also reach out to the course coordinator (Christopher Painter-Wakefield) or the Computer Science Department Head (Iris Bahar). The department head can investigate and work with the faculty member to resolve course-related concerns. Students’ final point of contact is the Dean of Energy and Materials Programs (John Berger) who can make any final decisions.
 
 ### <span style="color:darkblue">Maintenance Clause</span>
 
 This syllabus is intended to give students guidance on this course this semester and will be followed as closely as possible. The instructor reserves the right to modify, supplement and make changes as the course needs arise. This syllabus is not a legal document; common sense rules always apply, e.g., no late assignments will be accepted after the solutions are discussed or available.
 
 <!-- Acknowledgements
-The markdown used here was adapted from Dr. McClurg's CSCI 400 syllabus; much of the general content was provided by Trefny, with some policies adapted from Dr. Dave's previous CSCI 341 syllabus and the CSCI 101 syllabus. New text was taken from CPW's and Amelia Read's previous CSCI 403 syllabi.
+The markdown used here was adapted from Dr. McClurg's CSCI 400 syllabus; much of the general content was provided by Trefny, with some policies adapted from Dr. Dave's previous CSCI 341 syllabus and the CSCI 101 syllabus. New text was taken from CPW's, Gabe Fierro's, Hayden Cooreman's, and Amelia Read's previous CSCI 403 syllabi.
 -->
