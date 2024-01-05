@@ -28,14 +28,20 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 
 <span style="color:darkblue">**Teaching Assistants (TAs):**</span>
 
-- Nathan Panzer nathanpanzer (at) mines (dot) edu (Lead TA)<br/>
-    **Office Hours:** Friday 2-4pm in CTLM B56
+- Hannah Harling hharling (at) mines (dot) edu (Lead TA) <br/>
+    **Office Hours:** TBD
 
-- James Vongphasouk jvongphasouk (at) mines (dot) edu<br/>
-    **Office Hours:** Monday and Friday 5-6pm in the PMA (CTLM 246)<br/>
+- Nathan Panzer nathanpanzer (at) mines (dot) edu <br/>
+    **Office Hours:** TBD
+
+- Adam Krasovec krasovecadam (at) mines (dot) edu<br/>
+    **Office Hours:** TBD
     
-- Isaac Gardberg isaacgardberg (at) mines (dot) edu<br/>
-    **Office Hours:** Monday and Wednesday 1:50-2:50pm in CTLM B60
+- Dylan Osborn dylanosborn (at) mines (dot) edu<br/>
+    **Office Hours:** TBD
+
+- Isabella Pacheco ipacheco (at) mines (dot) edu<br/>
+    **Office Hours:** TBD
 
 ---
 
