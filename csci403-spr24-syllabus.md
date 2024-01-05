@@ -135,10 +135,11 @@ a grade of A; 80% or higher a B, etc. This scale may go down, but it will not go
 
 All grades will be posted in Canvas
 
-| Worksheets        | 15%           |
 | Labs              | 30%           |
+| Quizzes           | 30%           |
 | Final Pre-Project | 15%           |
-| Final Project     | 40%           |
+| Final Project     | 20%           |
+| Weekly Check-Ins  | 5%            |
 
 Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the exam and SQL project. Extra credit may be offered for additional learning activities related to this class. Unless otherwise detailed in this syllabus, the awarding of extra credit is at the discretion of the instructor and is not guaranteed.
 
