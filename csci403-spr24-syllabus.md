@@ -119,11 +119,10 @@ NOTE: we assign readings from the textbook. These will add to your understanding
 
 The assessments for this course include the following:
 
-- semi-weekly worksheets addressing the topics of the week; these are graded on effort and evidence of understanding, with solutions discussed in the following class
-- participation is a quality-based grade and consists of showing active participation in class (partly accomplished by attending class), in the textbook, and on the discussion board - either asking or answering questions
+- weekly check-in assignments addressing the topics of the week; these are graded on effort and evidence of understanding, with solutions discussed in the following class
 - 6-8 individual labs, addressing the SQL topics covered in class
-- 1 exam, showing individual attainment of SQL and relational knowledge; this will be a 1-day take-home exam that is estimated to take 2 hours to complete assuming you prepared prior to the exam by completing the labs individually and fully preparing for and participating in class and getting your questions addressed in class, on the discussion board, or during office hours.
-- 2 group projects: one shows attainment of the SQL-related course outcomes, and the second shows attainment of the non-SQL course outcome; the first includes a report and a poster, the second includes an infographic. Both are presented to the class by the group.
+- 3 quizzes, showing individual attainment of SQL and relational knowledge; prepare prior to the exam by completing the labs individually and fully preparing for and participating in class and getting your questions addressed in class, on the discussion board, or during office hours.
+- 2-part final project: the first is individual and shows basic attainment of the SQL-related course outcomes, and the second is a group project focusing on combining datasets and a deeper understanding of course outcomes.
 
 Note that there will be a SQL presentation day during Review Week, the non-SQL project will be due at the end of Review Week, and the final exam time will instead be used for non-SQL presentations.
 
