@@ -111,7 +111,7 @@ complex updates; tune queries for performance.
 
 NOTE: we assign readings from the textbook. These will add to your understanding and may be of use in preparing for class and exams or completing labs.
 
-- [Practical Databases](https://runestone.academy/ns/books/published/coloradoschoolofmines_practical_db_fall23/index.html) by Painter-Wakefield, available at Runestone (requires free account)
+- [Practical Databases](https://runestone.academy/ns/books/published/Mines_CSCI403_Spring24/index.html) by Painter-Wakefield, available at Runestone (requires free account)
 - additional resources listed in Canvas course material
 
 
