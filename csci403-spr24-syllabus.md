@@ -248,6 +248,8 @@ If you have any questions or need clarification, please come to Office Hours, an
 
 This syllabus is intended to give students guidance on this course this semester and will be followed as closely as possible. The instructor reserves the right to modify, supplement and make changes as the course needs arise. This syllabus is not a legal document; common sense rules always apply, e.g., no late assignments will be accepted after the solutions are discussed or available.
 
+---
+
 ## <span style="color:darkblue">Mines Course Policies</span>
 
 Mines has put in place several university-wide policies related to course management. Those policies will be applied as appropriate to this class, and may impact existing policies. All policies past this point should be reflected in the syllabi of your other courses. If you've already read a syllabus for another class this semester, feel free to skip this section.
@@ -261,7 +263,6 @@ Mines students are expected to fulfill their academic requirements through atten
 Discrimination, Harassment, and Sexual Misconduct of any type, including sexual harassment, sexual assault, dating violence, domestic violence, and stalking, are prohibited under the Policy Prohibiting Sexual Misconduct, Discrimination, and Retaliation. Please see the Office for Institutional Equity website for information on Sexual Misconduct and Discrimination.
 
 As your instructors, it is our responsibility to foster a learning environment that supports diversity of thoughts, perspectives and experiences, honors your identities, and is free of discrimination. Please feel free to speak to us if the class is not living up to these standards. Please note that we are also  mandatory reporters as instructors at Mines, and if we receive a disclosure of Discrimination, Harassment, and/or Sexual Misconduct, we are required to report it to the Title IX Coordinator.
-
 
 ### <span style="color:darkblue">Preferred First Name Project</span>
 
