@@ -279,24 +279,8 @@ AI is an extremely powerful tool and, as the next generation of computer scienti
 | Use | Example Prompt | Explanation |
 | --- | --- | --- |
 | Using AI to explain a query or a concept from class | “What does the query ‘SELECT * FROM <table_name> WHERE <attribute> EQUALS <value>’ do? Explain each aspect of the query”  | You can change the way AI explains a concept to you based on prompt engineering. This can encourage and help you learn if you’re struggling with the way your professor is explaining the material. |
-
-
-
-Asking for examples of a specific concept 
-	
-
-“How would you create an ERD using a one-to-many relationship?” 
-	
-
-You must think through a concept to ask AI to explain it to you. By thinking of different ways to ask the AI to give you examples, you kind of have to know what to ask. 
-
-Asking for examples of queries to achieve a particular result 
-	
-
-“What key elements would I have to have in a query to join two tables inclusively?” 
-	
-
-Similar to the concept idea, you have to know what the end goal of the query is to effectively ask this question. 
+| Asking for examples of a specific concept | “How would you create an ERD using a one-to-many relationship?” | You must think through a concept to ask AI to explain it to you. By thinking of different ways to ask the AI to give you examples, you kind of have to know what to ask. |
+| Asking for examples of queries to achieve a particular result | “What key elements would I have to have in a query to join two tables inclusively?” | Similar to the concept idea, you have to know what the end goal of the query is to effectively ask this question. |
 
 What you are NOT allowed to do is ask for solutions for labs. Please don’t enter information about the tables used in labs and then ask questions. Can AI do this? Yes. But how is that going to help you master the material of this course?  OpenAI also reserves the right to use the information given to it to feed the model. Please don’t give out course information like that – then professors must change the course material and it’s just a disaster all around.
 
