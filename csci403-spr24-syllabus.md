@@ -274,6 +274,34 @@ Colorado School of Mines affirms the principle that all individuals associated w
 
 By submitting work for evaluation in this course, you represent it as your own intellectual product. Submitting content for evaluation (e.g., ideas, text, code, images) that was generated, in whole or in part, by Generative Artificial Intelligence tools (including, but not limited to, ChatGPT, Bard, and other large language models) would be considered Academic Misconduct in violation of Mines Academic Integrity/Misconduct Policy unless granted permission to do so. We will explain to you the specific uses of genAI tools that are permitted or prohibited in this course, including on what specific assignments use of genAI tools is permitted.
 
+AI is an extremely powerful tool and, as the next generation of computer scientists and software engineers, you should know how to use it to enhance your mastery of this course. Here are the acceptable ways to use AI in this course with examples.
+
+| Use | Example Prompt | Explanation |
+| --- | --- | --- |
+| Using AI to explain a query or a concept from class | “What does the query ‘SELECT * FROM <table_name> WHERE <attribute> EQUALS <value>’ do? Explain each aspect of the query”  | You can change the way AI explains a concept to you based on prompt engineering. This can encourage and help you learn if you’re struggling with the way your professor is explaining the material. |
+
+
+
+Asking for examples of a specific concept 
+	
+
+“How would you create an ERD using a one-to-many relationship?” 
+	
+
+You must think through a concept to ask AI to explain it to you. By thinking of different ways to ask the AI to give you examples, you kind of have to know what to ask. 
+
+Asking for examples of queries to achieve a particular result 
+	
+
+“What key elements would I have to have in a query to join two tables inclusively?” 
+	
+
+Similar to the concept idea, you have to know what the end goal of the query is to effectively ask this question. 
+
+What you are NOT allowed to do is ask for solutions for labs. Please don’t enter information about the tables used in labs and then ask questions. Can AI do this? Yes. But how is that going to help you master the material of this course?  OpenAI also reserves the right to use the information given to it to feed the model. Please don’t give out course information like that – then professors must change the course material and it’s just a disaster all around.
+
+If you have any questions or need clarification, please come to Office Hours, and the TAs, Hayden, or CPW will go over the policy with you! 
+
 ### <span style="color:darkblue">Disability Support Services</span>
 
 Disability Support Services (DSS) works collaboratively with students, faculty, and staff to minimize barriers and support an accessible campus community. When barriers to access occur, Disability Support Services works one-on-one with students to determine accommodations and facilitate access to programs and services. If you've been approved for accommodations through Disability Support Services, please contact your professor to confirm receipt of your accommodation letter and to discuss the implementation of accommodations in this course. Please visit [mines.edu/disability-support-services](mines.edu/disability-support-services) for more information or to request accommodations. 
