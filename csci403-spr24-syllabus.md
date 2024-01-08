@@ -120,11 +120,11 @@ NOTE: we assign readings from the textbook. These will add to your understanding
 The assessments for this course include the following:
 
 - weekly check-in assignments addressing the topics of the week; these are graded on effort and evidence of understanding, with solutions discussed in the following class
-- 6-8 individual labs, addressing the SQL topics covered in class
+- 6-8 individual labs, addressing the topics covered in class
 - 3 quizzes, showing individual attainment of SQL and relational knowledge; prepare prior to the exam by completing the labs individually and fully preparing for and participating in class and getting your questions addressed in class, on the discussion board, or during office hours.
 - 2-part final project: the first is individual and shows basic attainment of the SQL-related course outcomes, and the second is a group project focusing on combining datasets and a deeper understanding of course outcomes.
 
-Note that there will be a SQL presentation day during Review Week, the non-SQL project will be due at the end of Review Week, and the final exam time will instead be used for non-SQL presentations.
+There is no final exam, and we will not use the final exam time scheduled by the registrar.
 
 ### <span style="color:darkblue">Grading Policy</span>
 
@@ -140,26 +140,28 @@ All grades will be posted in Canvas
 | Final Project     | 20%           |
 | Weekly Check-Ins  | 5%            |
 
-Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the exam and SQL project. Extra credit may be offered for additional learning activities related to this class. Unless otherwise detailed in this syllabus, the awarding of extra credit is at the discretion of the instructor and is not guaranteed.
+Actively working on the worksheets and preparing for and participating in class will prepare you for the labs; that and the labs will prepare you for the quizzes and final project. Extra credit may be offered for additional learning activities related to this class. Unless otherwise detailed in this syllabus, the awarding of extra credit is at the discretion of the instructor and is not guaranteed.
+
+### <span style="color:darkblue">Course Schedule</span>
+
+See the schedule page on Canvas for a tentative course schedule. This schedule is subject to change. 
+
+Please check there regularly for any updates to the course schedule.
 
 <!-- Do we agree with this late policy or would rather go to passes similar to data engineering? -->
 ### <span style="color:darkblue">Late Policy</span>
 
-Late lab submissions are _strongly_  discouraged. As with most programming languages, the material builds on itself.
+Late lab submissions are _strongly_ discouraged. As with most programming languages, the material builds on itself.
 However, I understand that you are busy, and sometimes you need to work around other responsibilities. 
 Accordingly, late labs will be accepted with a 1%/day (including partial days) penalty, up to three weeks after the due date, unless excused absences apply. **Any requests for exceptions to this late policy must be made to the course instructor (not the TAs).**
 
 Weekly Check-Ins cannot be submitted late, as they are an ongoing activity throughout the semester with solutions provided in the next class.
 
-The group projects cannot be submitted late due to time constraints - the SQL project requires printing of posters, and the non-SQL project similarly. Extenuating circumstances might apply, however be prepared to cover for your teammates should they be unable to participate.
+The group projects cannot be submitted late due to time constraints. Extenuating circumstances might apply, however be prepared to cover for your teammates should they be unable to participate. There will be a peer-evaluation component of the final project grade to account for this circumstance.
 
 Quizzes can only be taken late with excused absences; contact your instructor one week prior to the quiz or as early as possible about the need for a make-up quiz.
 
-If you need quiz accommodations, please arrange that with Testing Services one week or more _prior_ to the exam date as shown in Canvas.
-
-### <span style="color:darkblue">Absences</span>
-
-Mines students are expected to fulfill their academic requirements through attendance and/or participation. Class attendance is required of all students unless the student has an excused absence granted by the school or the student’s professor. An excused absence awarded by the school or professor comes after a student's request or initiative. To review the Excused Absence Policy and/or to request an excused absence, please visit [https://www.mines.edu/student-life/student-absences/](https://www.mines.edu/student-life/student-absences/).
+If you need quiz accommodations, please arrange that with Testing Services one week or more _prior_ to the date as shown in Canvas.
 
 ### <span style="color:darkblue">Coursework Return Policy</span>
 
@@ -178,9 +180,7 @@ If you do not understand from the feedback provided on your coursework how to im
   Collaboration Policies form a core part of your expected ethical behavior.
   Make sure you are behaving with the same level of professionalism that would
   be expected at a future full-time position. My general rule of thumb is:
-  **_informal_ is acceptable, but _disrespectful_ is not**. For example, you
-  can address Prof. Gabe Fierro as "Professor" or "Dr. Fierro" but do
-  not address any of us as "Hey".
+  **_informal_ is acceptable, but _disrespectful_ is not**.
 
 - Be active and physically take notes/write questions when viewing videos and participating in class; the notes provided are not comprehensive but may be useful for taking notes on.
 
@@ -194,19 +194,15 @@ If you do not understand from the feedback provided on your coursework how to im
 
 - If you have an excused absence for pre-planned activities leading up to or on due dates, those due assignments *must be turned in before the due date* or the late policy will be applied. This includes sports events.
 
-- It is your responsibility to check your submissions on Canvas and ensure the files are not corrupt and are gradable. If you turn in something that the instructor/TAs cannot open, is for a different class, or is not in the correct format, that is an automatic 0 on the assignment. I recommend checking from a different browser or computer to be sure.
-
 - If you are absent, you are responsible for determining what work was missed and for putting forth a good faith effort to review the material. Once the material is reviewed, bring questions to the instructor and TAs as quickly as possible. The material in this class builds on itself from week to week, so staying on track and catching up quickly is important for your success.
 
 - Be proactive and communicate your course-related concerns and needs to your instructor in a timely manner.
 
-- No late accommodations will be made for exams or worksheets unless there is an excused absence.
-
-- Presentations are are held in class tentatively on the dates noted in the Canvas Schedule page for this course. Make your travel plans outside these weeks.
+- No late accommodations will be made for quizzes or weekly check-ins unless there is an excused absence.
 
 - Use our discussion board for CSCI 403 questions outside of class. First do a quick search to see if your question has already been addressed. If not found, go ahead and post your question so that the instructor, TAs, or another student can address it. Do not post your own work that you plan to submit publicly on the discussion board, or request solutions to assignments. If you are unsure, submit it privately to the Instructors on the discussion board to share it with just the instructor and TAs. 
 
-- Use email, a private message on the discussion board, or office hours if you wish to contact your instructor about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. Your instructor will return messages within 24 hours during the school week, possibly longer on the weekends or holidays.
+- Use email, a private message on the discussion board, or office hours if you wish to contact your instructor about your grade, an excused absence, or other matter not appropriate to share with the class as a whole. Your instructor will try return messages within 24 hours during the school week, possibly longer on the weekends or holidays.
 
 ### <span style="color:darkblue">Collaboration Policy</span>
 
@@ -232,28 +228,33 @@ If you do not understand from the feedback provided on your coursework how to im
 
 - **NOTE:** All issues of misconduct are reported to the Dean of Students. Academic misconduct may result in course failure for all students involved and an entry on your school record.
 
----
+### <span style="color:darkblue">Generative Artificial Intelligence</span>
 
-### <span style="color:darkblue">Mines Course Policies</span>
+By submitting work for evaluation in this course, you represent it as your own intellectual product. Submitting content for evaluation (e.g., ideas, text, code, images) that was generated, in whole or in part, by Generative Artificial Intelligence tools (including, but not limited to, ChatGPT, Bard, and other large language models) would be considered Academic Misconduct in violation of Mines Academic Integrity/Misconduct Policy unless granted permission to do so. We will explain to you the specific uses of genAI tools that are permitted or prohibited in this course, including on what specific assignments use of genAI tools is permitted.
 
-Mines has put in place several policies related to course management. Those policies will be applied as appropriate to this class, and may impact existing policies. See the separate documents provided on Canvas detailing those. 
+AI is an extremely powerful tool and, as the next generation of computer scientists and software engineers, you should know how to use it to enhance your mastery of this course. Here are the acceptable ways to use AI in this course with examples.
 
-- please seek help from the resources Mines provides if you are in need; it is there for you, we are here for you!
+| Use | Example Prompt | Explanation |
+| --- | --- | --- |
+| Using AI to explain a query or a concept from class | “What does the query ‘SELECT * FROM <table_name> WHERE <attribute> EQUALS <value>’ do? Explain each aspect of the query”  | You can change the way AI explains a concept to you based on prompt engineering. This can encourage and help you learn if you’re struggling with the way your professor is explaining the material. |
+| Asking for examples of a specific concept | “How would you create an ERD using a one-to-many relationship?” | You must think through a concept to ask AI to explain it to you. By thinking of different ways to ask the AI to give you examples, you kind of have to know what to ask. |
+| Asking for examples of queries to achieve a particular result | “What key elements would I have to have in a query to join two tables inclusively?” | Similar to the concept idea, you have to know what the end goal of the query is to effectively ask this question. |
 
-- respect your peers, TAs, and instructors - we all want to succeed at what we do, and you don't know what those around you may be dealing with outside of class
+What you are NOT allowed to do is ask for solutions for labs. Please don’t enter information about the tables used in labs and then ask questions. Can AI do this? Yes. But how is that going to help you master the material of this course?  OpenAI also reserves the right to use the information given to it to feed the model. Please don’t give out course information like that – then professors must change the course material and it’s just a disaster all around.
 
-- let us know if your needs are not being met, and seek accommodation if needed
+If you have any questions or need clarification, please come to Office Hours, and the TAs, Hayden, or CPW will go over the policy with you!
 
-- respect the OreDigger Promise and the Mines Student Code of Conduct to support Mines' reputation as well as your own
+### <span style="color:darkblue">Maintenance Clause</span>
 
-- you should remain aware of current Mines COVID protocols and actively implement them for yourself.
+This syllabus is intended to give students guidance on this course this semester and will be followed as closely as possible. The instructor reserves the right to modify, supplement and make changes as the course needs arise. This syllabus is not a legal document; common sense rules always apply, e.g., no late assignments will be accepted after the solutions are discussed or available.
 
+## <span style="color:darkblue">Mines Course Policies</span>
 
-### <span style="color:darkblue">Course Schedule</span>
+Mines has put in place several university-wide policies related to course management. Those policies will be applied as appropriate to this class, and may impact existing policies. All policies past this point should be reflected in the syllabi of your other courses. If you've already read a syllabus for another class this semester, feel free to skip this section.
 
-See the schedule page on Canvas for a tentative course schedule. This schedule is subject to change. 
+### <span style="color:darkblue">Absences</span>
 
-Please check there regularly for any updates to the course schedule.
+Mines students are expected to fulfill their academic requirements through attendance and/or participation. Class attendance is required of all students unless the student has an excused absence granted by the school or the student’s professor. An excused absence awarded by the school or professor comes after a student's request or initiative. To review the Excused Absence Policy and/or to request an excused absence, please visit [https://www.mines.edu/student-life/student-absences/](https://www.mines.edu/student-life/student-absences/).
 
 ### <span style="color:darkblue">Sexual Misconduct, Discrimination, and Retaliation</span>
 
@@ -269,22 +270,6 @@ Mines recognizes members of the campus community may prefer to use a first name 
 ### <span style="color:darkblue">Academic Integrity</span>
 
 Colorado School of Mines affirms the principle that all individuals associated with the Mines academic community have a responsibility for establishing, maintaining, and fostering an understanding and appreciation for academic integrity. In broad terms, this implies protecting the environment of mutual trust within which scholarly exchange occurs, supporting the ability of the faculty to fairly and effectively evaluate every student’s academic achievements, and giving credence to the university’s educational mission, its scholarly objectives, and the substance of the degrees it awards. We desire an environment free of any and all forms of academic misconduct and expects students to act with integrity at all times. Please read the [full academic misconduct/integrity policy](https://www.mines.edu/policy-library/academic-integrity-policy/) for full definitions of academic misconduct. Additionally, please use [resources provided by the Office of Community Standards](https://www.mines.edu/student-life/community-standards/academic-integrity/) for guidance should you need to know more about the procedures of the policy for academic misconduct/integrity.
-
-### <span style="color:darkblue">Generative Artificial Intelligence</span>
-
-By submitting work for evaluation in this course, you represent it as your own intellectual product. Submitting content for evaluation (e.g., ideas, text, code, images) that was generated, in whole or in part, by Generative Artificial Intelligence tools (including, but not limited to, ChatGPT, Bard, and other large language models) would be considered Academic Misconduct in violation of Mines Academic Integrity/Misconduct Policy unless granted permission to do so. We will explain to you the specific uses of genAI tools that are permitted or prohibited in this course, including on what specific assignments use of genAI tools is permitted.
-
-AI is an extremely powerful tool and, as the next generation of computer scientists and software engineers, you should know how to use it to enhance your mastery of this course. Here are the acceptable ways to use AI in this course with examples.
-
-| Use | Example Prompt | Explanation |
-| --- | --- | --- |
-| Using AI to explain a query or a concept from class | “What does the query ‘SELECT * FROM <table_name> WHERE <attribute> EQUALS <value>’ do? Explain each aspect of the query”  | You can change the way AI explains a concept to you based on prompt engineering. This can encourage and help you learn if you’re struggling with the way your professor is explaining the material. |
-| Asking for examples of a specific concept | “How would you create an ERD using a one-to-many relationship?” | You must think through a concept to ask AI to explain it to you. By thinking of different ways to ask the AI to give you examples, you kind of have to know what to ask. |
-| Asking for examples of queries to achieve a particular result | “What key elements would I have to have in a query to join two tables inclusively?” | Similar to the concept idea, you have to know what the end goal of the query is to effectively ask this question. |
-
-What you are NOT allowed to do is ask for solutions for labs. Please don’t enter information about the tables used in labs and then ask questions. Can AI do this? Yes. But how is that going to help you master the material of this course?  OpenAI also reserves the right to use the information given to it to feed the model. Please don’t give out course information like that – then professors must change the course material and it’s just a disaster all around.
-
-If you have any questions or need clarification, please come to Office Hours, and the TAs, Hayden, or CPW will go over the policy with you! 
 
 ### <span style="color:darkblue">Disability Support Services</span>
 
@@ -317,10 +302,6 @@ Our students represent every state in the nation and more than 90 countries arou
 ### <span style="color:darkblue">Course Issues and Concerns</span>
 
 As part of good professional practice, students are encouraged to speak with the faculty directly to raise issues and concerns with regards to the course professionally in compliance with the student code of conduct. Students can also reach out to the course coordinator (Christopher Painter-Wakefield) or the Computer Science Department Head (Iris Bahar). The department head can investigate and work with the faculty member to resolve course-related concerns. Students’ final point of contact is the Dean of Energy and Materials Programs (John Berger) who can make any final decisions.
-
-### <span style="color:darkblue">Maintenance Clause</span>
-
-This syllabus is intended to give students guidance on this course this semester and will be followed as closely as possible. The instructor reserves the right to modify, supplement and make changes as the course needs arise. This syllabus is not a legal document; common sense rules always apply, e.g., no late assignments will be accepted after the solutions are discussed or available.
 
 <!-- Acknowledgements
 The markdown used here was adapted from Dr. McClurg's CSCI 400 syllabus; much of the general content was provided by Trefny, with some policies adapted from Dr. Dave's previous CSCI 341 syllabus and the CSCI 101 syllabus. New text was taken from CPW's, Gabe Fierro's, Hayden Cooreman's, and Amelia Read's previous CSCI 403 syllabi.
