@@ -19,7 +19,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 ---
 
 ### <span style="color:darkblue">Staff</span>
-
+x
 <span style="color:darkblue">**Lead Instructor (Section B):**</span> [Prof. Christopher Painter-Wakefield](https://inside.mines.edu/~cpainter/)   cpainter (at) mines (dot) edu<br/>
 <span style="color:darkblue">**Office Hours:**</span> TBD in CTLM 246A, or by arrangement
 
@@ -58,7 +58,7 @@ CSCI200 or CSCI262 with a grade of C- or higher, or equivalent computer programm
 
 ### <span style="color:darkblue">Required Technology</span>
 
-Internet connection; regular access to a reliable PC/Mac; Web browser for Canvas, WebSQL, Runescape, &amp; other online resources. You can access our course database by installing software on your PC/Mac or by remote login to isengard.mines.edu (which requires VPN or being on the campus network). I also recommend installing Canvas on your phone to get notifications. Please bring a laptop, tablet, or smart phone to class to access the course database for class activities.
+Internet connection; regular access to a reliable PC/Mac; Web browser for Canvas, WebSQL, Runestone, &amp; other online resources. You can access our course database by installing software on your PC/Mac or by remote login to isengard.mines.edu (which requires VPN or being on the campus network). I also recommend installing Canvas on your phone to get notifications. Please bring a laptop, tablet, or smart phone to class to access the course database for class activities.
 
 ### <span style="color:darkblue">Online Community and Communication</span>
 
