@@ -44,6 +44,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
     **Office Hours:** 1-1:50pm on Thursdays
 
 TA Office Hours are held in the Peer Mentoring Area in CTLM 246 unless specified otherwise.
+
 ---
 
 ### <span style="color:darkblue">Links</span>
