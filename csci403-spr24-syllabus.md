@@ -19,7 +19,7 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 ---
 
 ### <span style="color:darkblue">Staff</span>
-x
+
 <span style="color:darkblue">**Lead Instructor (Section B):**</span> [Prof. Christopher Painter-Wakefield](https://inside.mines.edu/~cpainter/)   cpainter (at) mines (dot) edu<br/>
 <span style="color:darkblue">**Office Hours:**</span> 11am-12pm on Mondays and Thursdays, and 2-3pm on Thursdays in CTLM 246A, or by arrangement
 
