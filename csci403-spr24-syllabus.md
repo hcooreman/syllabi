@@ -21,15 +21,15 @@ Mines and CS@Mines provide additional course policies; see the Canvas course mat
 ### <span style="color:darkblue">Staff</span>
 x
 <span style="color:darkblue">**Lead Instructor (Section B):**</span> [Prof. Christopher Painter-Wakefield](https://inside.mines.edu/~cpainter/)   cpainter (at) mines (dot) edu<br/>
-<span style="color:darkblue">**Office Hours:**</span> TBD in CTLM 246A, or by arrangement
+<span style="color:darkblue">**Office Hours:**</span> 11am-12pm on Mondays and Thursdays, and 2-3pm on Thursdays in CTLM 246A, or by arrangement
 
 <span style="color:darkblue">**Instructor (Section A):**</span> [Adj. Prof. Hayden Cooreman](https://people.mines.edu/hcooreman)   hcooreman (at) mines (dot) edu<br/>
-<span style="color:darkblue">**Office Hours:**</span> TBD in CTLM 246B, or by arrangement
+<span style="color:darkblue">**Office Hours:**</span> Wednesdays and Thursdays, 12-1pm in CTLM 246B, or by arrangement
 
 <span style="color:darkblue">**Teaching Assistants (TAs):**</span>
 
 - Hannah Harling hharling (at) mines (dot) edu (Lead TA) <br/>
-    **Office Hours:** TBD
+    **Office Hours:** 9:30-11am on Tuesdays and 12:30-2pm on Fridays
 
 - Nathan Panzer nathanpanzer (at) mines (dot) edu <br/>
     **Office Hours:** TBD
@@ -38,11 +38,12 @@ x
     **Office Hours:** TBD
     
 - Dylan Osborn dylanosborn (at) mines (dot) edu<br/>
-    **Office Hours:** TBD
+    **Office Hours:** 3-4pm on Mondays and Wednesdays
 
 - Isabella Pacheco ipacheco (at) mines (dot) edu<br/>
-    **Office Hours:** TBD
+    **Office Hours:** 1-1:50pm on Thursdays
 
+***TA Office Hours are held in the Peer Mentoring Area in CTLM 246 unless specified otherwise***
 ---
 
 ### <span style="color:darkblue">Links</span>
