@@ -43,7 +43,7 @@ x
 - Isabella Pacheco ipacheco (at) mines (dot) edu<br/>
     **Office Hours:** 1-1:50pm on Thursdays
 
-***TA Office Hours are held in the Peer Mentoring Area in CTLM 246 unless specified otherwise***
+TA Office Hours are held in the Peer Mentoring Area in CTLM 246 unless specified otherwise.
 ---
 
 ### <span style="color:darkblue">Links</span>
